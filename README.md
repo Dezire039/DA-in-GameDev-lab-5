@@ -49,7 +49,7 @@
 
 <img width="823" alt="2022-12-01 (5)" src="https://user-images.githubusercontent.com/114075427/205104332-358c0e2c-b7a7-4b55-9635-a0586acff35a.png">
 - Установила TensorBoard и получила графики:
-![2](https://user-images.githubusercontent.com/114075427/205107108-bc453b77-379b-47d7-9495-d50abbb5f245.png)
+![2 (1)](https://user-images.githubusercontent.com/114075427/205111480-08f5a7f5-b83b-42c2-8f93-c12eb00a509a.png)
 
 - Изменила параметр strength на 0.5 (1)
 Суммарное вознаграждение изменилось
